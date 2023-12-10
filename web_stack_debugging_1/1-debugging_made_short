@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Script to debug and start Nginx service
+service nginx stop
+service nginx start
